@@ -1,4 +1,4 @@
-package com.secor.paymentservice;
+package com.secor.ecommercepaymentservice;
 
 import lombok.Getter;
 import lombok.Setter;

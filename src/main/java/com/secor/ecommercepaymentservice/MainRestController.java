@@ -1,4 +1,4 @@
-package com.secor.paymentservice;
+package com.secor.ecommercepaymentservice;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

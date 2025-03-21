@@ -1,4 +1,4 @@
-package com.secor.paymentservice;
+package com.secor.ecommercepaymentservice;
 
 import org.springframework.boot.test.context.SpringBootTest;
 
