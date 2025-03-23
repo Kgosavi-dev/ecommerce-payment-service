@@ -21,7 +21,7 @@ public class Payment {
     private String orderid;
 
     @Column(name = "amount")
-    private Integer amount;
+    private double amount;
 
     @Column(name = "status", length = 50)
     private String status;
